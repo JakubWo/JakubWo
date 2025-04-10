@@ -1,7 +1,8 @@
-Hi, I'm Jakub Wołoszyk.
-Currently I'm student of Gdansk University of Technology. 
-My field of study is Technical Physics with specialization in Applied Computer Science.
+Hi, my name is Jakub Wołoszyk.
 
-I'm currently working as Junior Back-end Developer at Wakacje.pl.
+Engineer & MSc in Technical Physics, specialized in Applied Computer Science.
 
-Have a nice day. :) 
+Professionally, I provide services for companies as a PHP Developer. 
+In my free time, I focus on small personal and university-related projects.
+
+Have a nice day! :)
